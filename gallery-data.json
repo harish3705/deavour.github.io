@@ -1,0 +1,154 @@
+[
+  {
+    "name": "Assassin's Creed",
+    "slug": "assassins-creed",
+    "count": 17,
+    "images": [
+      {
+        "src": "assets/gallery/assassins-creed-1.jpg",
+        "alt": "Assassin's Creed gameplay screenshot 1"
+      },
+      {
+        "src": "assets/gallery/assassins-creed-2.jpg",
+        "alt": "Assassin's Creed gameplay screenshot 2"
+      },
+      {
+        "src": "assets/gallery/assassins-creed-3.jpg",
+        "alt": "Assassin's Creed gameplay screenshot 3"
+      }
+    ]
+  },
+  {
+    "name": "Days Gone",
+    "slug": "days-gone",
+    "count": 16,
+    "images": [
+      {
+        "src": "assets/gallery/days-gone-1.jpg",
+        "alt": "Days Gone gameplay screenshot 1"
+      },
+      {
+        "src": "assets/gallery/days-gone-2.jpg",
+        "alt": "Days Gone gameplay screenshot 2"
+      },
+      {
+        "src": "assets/gallery/days-gone-3.jpg",
+        "alt": "Days Gone gameplay screenshot 3"
+      }
+    ]
+  },
+  {
+    "name": "Death Stranding",
+    "slug": "death-stranding",
+    "count": 32,
+    "images": [
+      {
+        "src": "assets/gallery/death-stranding-1.jpg",
+        "alt": "Death Stranding gameplay screenshot 1"
+      },
+      {
+        "src": "assets/gallery/death-stranding-2.jpg",
+        "alt": "Death Stranding gameplay screenshot 2"
+      },
+      {
+        "src": "assets/gallery/death-stranding-3.jpg",
+        "alt": "Death Stranding gameplay screenshot 3"
+      }
+    ]
+  },
+  {
+    "name": "Far Cry",
+    "slug": "far-cry",
+    "count": 24,
+    "images": [
+      {
+        "src": "assets/gallery/far-cry-1.jpg",
+        "alt": "Far Cry gameplay screenshot 1"
+      },
+      {
+        "src": "assets/gallery/far-cry-2.jpg",
+        "alt": "Far Cry gameplay screenshot 2"
+      },
+      {
+        "src": "assets/gallery/far-cry-3.jpg",
+        "alt": "Far Cry gameplay screenshot 3"
+      }
+    ]
+  },
+  {
+    "name": "GTA Online",
+    "slug": "gta-online",
+    "count": 23,
+    "images": [
+      {
+        "src": "assets/gallery/gta-online-1.jpg",
+        "alt": "GTA Online gameplay screenshot 1"
+      },
+      {
+        "src": "assets/gallery/gta-online-2.jpg",
+        "alt": "GTA Online gameplay screenshot 2"
+      },
+      {
+        "src": "assets/gallery/gta-online-3.jpg",
+        "alt": "GTA Online gameplay screenshot 3"
+      }
+    ]
+  },
+  {
+    "name": "God of War",
+    "slug": "god-of-war",
+    "count": 43,
+    "images": [
+      {
+        "src": "assets/gallery/god-of-war-1.jpg",
+        "alt": "God of War gameplay screenshot 1"
+      },
+      {
+        "src": "assets/gallery/god-of-war-2.jpg",
+        "alt": "God of War gameplay screenshot 2"
+      },
+      {
+        "src": "assets/gallery/god-of-war-3.jpg",
+        "alt": "God of War gameplay screenshot 3"
+      }
+    ]
+  },
+  {
+    "name": "Red Dead Redemption 2",
+    "slug": "red-dead-redemption-2",
+    "count": 23,
+    "images": [
+      {
+        "src": "assets/gallery/red-dead-redemption-2-1.jpg",
+        "alt": "Red Dead Redemption 2 gameplay screenshot 1"
+      },
+      {
+        "src": "assets/gallery/red-dead-redemption-2-2.jpg",
+        "alt": "Red Dead Redemption 2 gameplay screenshot 2"
+      },
+      {
+        "src": "assets/gallery/red-dead-redemption-2-3.jpg",
+        "alt": "Red Dead Redemption 2 gameplay screenshot 3"
+      }
+    ]
+  },
+  {
+    "name": "Uncharted 4",
+    "slug": "uncharted-4",
+    "count": 27,
+    "images": [
+      {
+        "src": "assets/gallery/uncharted-4-1.jpg",
+        "alt": "Uncharted 4 gameplay screenshot 1"
+      },
+      {
+        "src": "assets/gallery/uncharted-4-2.jpg",
+        "alt": "Uncharted 4 gameplay screenshot 2"
+      },
+      {
+        "src": "assets/gallery/uncharted-4-3.jpg",
+        "alt": "Uncharted 4 gameplay screenshot 3"
+      }
+    ]
+  }
+]
